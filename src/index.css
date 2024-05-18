@@ -13,3 +13,9 @@ canvas {
   background: url('/galaxy.png');
   height: 100dvh;
 }
+
+.loader {
+  width: 0;
+  display: flex;
+  justify-content: center;
+}
